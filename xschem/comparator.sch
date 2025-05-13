@@ -5,12 +5,12 @@ K {}
 V {}
 S {}
 E {}
-C {/foss/designs/Tiny_Tapeout/TTIHP0p3_HBT_555/IHP-Open-PDK/ihp-sg13g2/libs.tech/xschem/sg13g2_pr/npn13G2.sym} 130 120 0 0 {name=Q1
+C {/foss/designs/IHP-Open-PDK/ihp-sg13g2/libs.tech/xschem/sg13g2_pr/npn13G2.sym} 140 40 0 0 {name=Q1
 model=npn13G2
 spiceprefix=X
 Nx=1
 }
-C {/foss/designs/Tiny_Tapeout/TTIHP0p3_HBT_555/IHP-Open-PDK/ihp-sg13g2/libs.tech/xschem/sg13g2_pr/npn13G2.sym} 20 120 0 1 {name=Q2
+C {/foss/designs/IHP-Open-PDK/ihp-sg13g2/libs.tech/xschem/sg13g2_pr/npn13G2.sym} 60 40 0 1 {name=Q2
 model=npn13G2
 spiceprefix=X
 Nx=1
